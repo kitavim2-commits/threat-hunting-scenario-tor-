@@ -74,8 +74,8 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Mitchel Kitavi
-- **Author Contact**: https:
-- **Date**: January 31, 2026
+- **Author Contact**: kitavim2@gmail.com
+- **Date**: 'February 4, 2026'
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -92,4 +92,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | `January 31, 2026`  | `Mitchel Kitavi`   
