@@ -104,11 +104,10 @@ Searched the DeviceNetworkEvents table for any indication the tor browser was us
 ## Chronological Event Timeline 
 
 ### 1. File Download - TOR Installer
+-Initial Silent Installation (2026-02-14 19:09:59): 
+-The user MK initiated the event sequence by executing the Tor Browser installer (tor-browser-windows-x86_64-portable-15.0.5.exe) from the Downloads folder.
+-The execution utilized the /S switch, confirming a silent installation designed to bypass setup prompts and visual confirmation.
 
-- **Timestamp:** `2024-11-08T22:14:48.6065231Z`
-- **Event:** The user "employee" downloaded a file named `tor-browser-windows-x86_64-portable-14.0.1.exe` to the Downloads folder.
-- **Action:** File download detected.
-- **File Path:** `C:\Users\employee\Downloads\tor-browser-windows-x86_64-portable-14.0.1.exe`
 
 ### 2. Process Execution - TOR Browser Installation
 
