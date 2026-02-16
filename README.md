@@ -103,12 +103,12 @@ Searched the DeviceNetworkEvents table for any indication the tor browser was us
 
 ## Chronological Event Timeline 
 
-### 1. File Download - TOR Installer
--**File Download:** - TOR Installer
--**Timestamp:** 2026-02-15T02:10:32.015663Z
+### 1. File Download - TOR Installer.
+-**File Download:** - TOR Installer.
+-**Timestamp:** '2026-02-15T02:10:32.015663Z'
 -**Event:** The user "mk" downloaded a file named tor-browser-windows-x86_64-portable-14.0.1.exe to the Downloads folder.
 -**Action:** File download detected.
--**File Path:** C:\Users\mk\Downloads\tor-browser-windows-x86_64-portable-14.0.1.exe
+-**File Path:** C:\Users\mk\Downloads\tor-browser-windows-x86_64-portable-14.0.1.exe.
 
 
 ### 2. Process Execution - TOR Browser Installation
