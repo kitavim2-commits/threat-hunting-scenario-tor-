@@ -73,9 +73,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: xxxxxx
+- **Author Name**: Mitchel Kitavi
 - **Author Contact**: https:
-- **Date**: August 31, 2026
+- **Date**: January 31, 2026
 
 ## Validated By:
 - **Reviewer Name**: 
